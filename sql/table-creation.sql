@@ -11,7 +11,7 @@ DROP TABLE IF EXISTS economy;
 
 --2.Create tables and set constraints
 CREATE TABLE "countries" (
-    "country_id" INT   NOT NULL,
+    "country_id" VARCHAR(3)   NOT NULL,
     "country_name" VARCHAR(50)   NOT NULL,
     "population" FLOAT   NOT NULL,
     "region_id" INT   NOT NULL,
@@ -29,26 +29,26 @@ CREATE TABLE "regions" (
 );
 
 CREATE TABLE "happiness" (
-    "country_id" INT   NOT NULL,
+    "country_id" VARCHAR(3)   NOT NULL,
     "happiness_index" FLOAT   NOT NULL,
     "social_support" FLOAT   NOT NULL,
     "freedom" FLOAT   NOT NULL
 );
 
 CREATE TABLE "health" (
-    "country_id" INT   NOT NULL,
+    "country_id" VARCHAR(3)   NOT NULL,
     "healthy_life_exp" FLOAT   NOT NULL
 );
 
 CREATE TABLE "sustainability" (
-    "country_id" INT   NOT NULL,
+    "country_id" VARCHAR(3)   NOT NULL,
     "renewable_energy" FLOAT   NOT NULL,
     "access_electricity" FLOAT   NOT NULL,
     "access_water" FLOAT   NOT NULL
 );
 
 CREATE TABLE "economy" (
-    "country_id" INT   NOT NULL,
+    "country_id" VARCHAR(3)   NOT NULL,
     "gdp_per_capita" FLOAT   NOT NULL,
     "ppp" FLOAT   NOT NULL,
     "unemployment" FLOAT   NOT NULL,
