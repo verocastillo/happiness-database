@@ -1,0 +1,251 @@
+Country,Country Code,Population
+Afghanistan,AF,26023100
+Åland Islands,AX,28875
+Albania,AL,2893005
+Algeria,DZ,39500000
+American Samoa,AS,55519
+Andorra,AD,76949
+Angola,AO,24383301
+Anguilla,AI,13452
+Antarctica,AQ,1000
+Antigua and Barbuda,AG,86295
+Argentina,AR,43131966
+Armenia,AM,3006800
+Aruba,AW,107394
+Australia,AU,23868800
+Austria,AT,8602112
+Azerbaijan,AZ,9636300
+The Bahamas,BS,368390
+Bahrain,BH,1359800
+Bangladesh,BD,158875000
+Barbados,BB,285000
+Belarus,BY,9485300
+Belgium,BE,11248330
+Belize,BZ,368310
+Benin,BJ,10315244
+Bermuda,BM,64237
+Bhutan,BT,763920
+Bolivia,BO,11410651
+Bonaire,BQ,17408
+Bosnia and Herzegovina,BA,3791622
+Botswana,BW,2070984
+Bouvet Island,BV,0
+Brazil,BR,204772000
+British Indian Ocean Territory,IO,3000
+United States Minor Outlying Islands,UM,300
+Virgin Islands (British),VG,28054
+Virgin Islands (U.S.),VI,114743
+Brunei,BN,393372
+Bulgaria,BG,7202198
+Burkina Faso,BF,18450494
+Burundi,BI,9823827
+Cambodia,KH,15405157
+Cameroon,CM,23344000
+Canada,CA,35749600
+Cape Verde,CV,524833
+Cayman Islands,KY,58238
+Central African Republic,CF,4900000
+Chad,TD,14037000
+Chile,CL,18006407
+China,CN,1371590000
+Christmas Island,CX,2072
+Cocos (Keeling) Islands,CC,550
+Colombia,CO,48266600
+Comoros,KM,784745
+Republic of the Congo,CG,4620000
+Democratic Republic of the Congo,CD,77267000
+Cook Islands,CK,14974
+Costa Rica,CR,4773130
+Croatia,HR,4246800
+Cuba,CU,11238317
+Curaçao,CW,154843
+Cyprus,CY,858000
+Czech Republic,CZ,10537818
+Denmark,DK,5678348
+Djibouti,DJ,888000
+Dominica,DM,71293
+Dominican Republic,DO,10528000
+Ecuador,EC,16027500
+Egypt,EG,89335600
+El Salvador,SV,6401240
+Equatorial Guinea,GQ,1430000
+Eritrea,ER,5228000
+Estonia,EE,1313271
+Ethiopia,ET,90076012
+Falkland Islands,FK,3000
+Faroe Islands,FO,48846
+Fiji,FJ,859178
+Finland,FI,5485215
+France,FR,66186000
+French Guiana,GF,239648
+French Polynesia,PF,268270
+French Southern and Antarctic Lands,TF,140
+Gabon,GA,1725000
+The Gambia,GM,1882450
+Georgia,GE,3729500
+Germany,DE,81083600
+Ghana,GH,27043093
+Gibraltar,GI,32734
+Greece,GR,10846979
+Greenland,GL,56114
+Grenada,GD,103328
+Guadeloupe,GP,403750
+Guam,GU,159358
+Guatemala,GT,16176133
+Guernsey,GG,65150
+Guinea,GN,10628972
+Guinea-Bissau,GW,1844000
+Guyana,GY,746900
+Haiti,HT,10911819
+Heard Island and McDonald Islands,HM,0
+Holy See,VA,451
+Honduras,HN,8725111
+Hong Kong,HK,7298600
+Hungary,HU,9849000
+Iceland,IS,330610
+India,IN,1275840000
+Indonesia,ID,255461700
+Ivory Coast,CI,22671331
+Iran,IR,78572500
+Iraq,IQ,36004552
+Republic of Ireland,IE,6378000
+Isle of Man,IM,84497
+Israel,IL,8371600
+Italy,IT,60753794
+Jamaica,JM,2717991
+Japan,JP,126865000
+Jersey,JE,99000
+Jordan,JO,6767600
+Kazakhstan,KZ,17541200
+Kenya,KE,46050000
+Kiribati,KI,106461
+Kuwait,KW,3268431
+Kyrgyzstan,KG,5944400
+Laos,LA,6802000
+Latvia,LV,1980700
+Lebanon,LB,4104000
+Lesotho,LS,2135000
+Liberia,LR,4503000
+Libya,LY,6278000
+Liechtenstein,LI,37370
+Lithuania,LT,2900787
+Luxembourg,LU,562958
+Macau,MO,642900
+Republic of Macedonia,MK,2058539
+Madagascar,MG,22434363
+Malawi,MW,16310431
+Malaysia,MY,30678800
+Maldives,MV,341256
+Mali,ML,17600000
+Malta,MT,445426
+Marshall Islands,MH,56086
+Martinique,MQ,381326
+Mauritania,MR,3631775
+Mauritius,MU,1261208
+Mayotte,YT,212645
+Mexico,MX,121740000
+Federated States of Micronesia,FM,101351
+Moldova,MD,3555200
+Monaco,MC,37800
+Mongolia,MN,3031099
+Montenegro,ME,621207
+Montserrat,MS,4922
+Morocco,MA,33337529
+Mozambique,MZ,25727911
+Myanmar,MM,53897000
+Namibia,NA,2280700
+Nauru,NR,10084
+Nepal,NP,28037904
+Netherlands,NL,16916000
+New Caledonia,NC,268767
+New Zealand,NZ,4609440
+Nicaragua,NI,6198154
+Niger,NE,19899000
+Nigeria,NG,182202000
+Niue,NU,1613
+Norfolk Island,NF,2302
+North Korea,KP,25155000
+Northern Mariana Islands,MP,53883
+Norway,NO,5176998
+Oman,OM,4185440
+Pakistan,PK,190668000
+Palau,PW,20901
+Palestine,PS,4682467
+Panama,PA,3764166
+Papua New Guinea,PG,7398500
+Paraguay,PY,7003406
+Peru,PE,31151643
+Philippines,PH,101920000
+Pitcairn Islands,PN,56
+Poland,PL,38484000
+Portugal,PT,10374822
+Puerto Rico,PR,3548397
+Qatar,QA,2120129
+Republic of Kosovo,XK,1733842
+Réunion,RE,840974
+Romania,RO,19942642
+Russia,RU,146556330
+Rwanda,RW,11262564
+Saint Barthélemy,BL,9269
+Saint Helena,SH,4255
+Saint Kitts and Nevis,KN,56000
+Saint Lucia,LC,185000
+Saint Martin,MF,36979
+Saint Pierre and Miquelon,PM,6069
+Saint Vincent and the Grenadines,VC,109991
+Samoa,WS,187820
+San Marino,SM,32831
+São Tomé and Príncipe,ST,187356
+Saudi Arabia,SA,31521418
+Senegal,SN,13508715
+Serbia,RS,7114393
+Seychelles,SC,89949
+Sierra Leone,SL,6453000
+Singapore,SG,5469700
+Sint Maarten,SX,37429
+Slovakia,SK,5421349
+Slovenia,SI,2067683
+Solomon Islands,SB,581344
+Somalia,SO,10787000
+South Africa,ZA,54956900
+South Georgia,GS,30
+South Korea,KR,51448183
+South Sudan,SS,11892934
+Spain,ES,46439864
+Sri Lanka,LK,20675000
+Sudan,SD,38435252
+Suriname,SR,534189
+Svalbard and Jan Mayen,SJ,2562
+Swaziland,SZ,1119375
+Sweden,SE,9793172
+Switzerland,CH,8256000
+Syria,SY,23339517
+Taiwan,TW,23461708
+Tajikistan,TJ,8354000
+Tanzania,TZ,53470000
+Thailand,TH,65104000
+East Timor,TL,1212107
+Togo,TG,7305000
+Tokelau,TK,1411
+Tonga,TO,103252
+Trinidad and Tobago,TT,1340557
+Tunisia,TN,10982754
+Turkey,TR,77695904
+Turkmenistan,TM,4751120
+Turks and Caicos Islands,TC,31458
+Tuvalu,TV,10640
+Uganda,UG,34856813
+Ukraine,UA,42836922
+United Arab Emirates,AE,9157000
+United Kingdom,GB,64800000
+United States,US,321645000
+Uruguay,UY,3415866
+Uzbekistan,UZ,31022500
+Vanuatu,VU,264652
+Venezuela,VE,30620404
+Vietnam,VN,91812000
+Wallis and Futuna,WF,13135
+Western Sahara,EH,510713
+Yemen,YE,25956000
+Zambia,ZM,15473905
+Zimbabwe,ZW,13061239
