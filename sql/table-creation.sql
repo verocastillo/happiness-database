@@ -14,14 +14,14 @@ CREATE TABLE "countries" (
     "country_id" VARCHAR(3)   NOT NULL,
     "country_name" VARCHAR(50)   NOT NULL,
     "population" FLOAT   NOT NULL,
-    "region_id" VARCHAR(5)   NOT NULL,
+    "region_id" VARCHAR(10)   NOT NULL,
     CONSTRAINT "pk_countries" PRIMARY KEY (
         "country_id"
      )
 );
 
 CREATE TABLE "regions" (
-    "region_id" VARCHAR(5)    NOT NULL,
+    "region_id" VARCHAR(10)    NOT NULL,
     "region_name" VARCHAR(50)   NOT NULL,
     CONSTRAINT "pk_regions" PRIMARY KEY (
         "region_id"
