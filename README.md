@@ -1,6 +1,6 @@
 # Happiness Database & ETL Process
 
-<img width="958" alt="Happiness Database screenshots" src="https://github.com/verocastillo/happiness-database/blob/main/screenshots/project_header.png">
+<img width="958" alt="Happiness Database screenshots" src="https://github.com/verocastillo/happiness-database/blob/main/resources/screenshots/project_header.png">
 
 **EXECUTIVE SUMMARY**
 
