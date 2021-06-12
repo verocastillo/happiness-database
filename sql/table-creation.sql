@@ -37,22 +37,22 @@ CREATE TABLE "happiness" (
 
 CREATE TABLE "health" (
     "country_id" VARCHAR(3)   NOT NULL,
-    "healthy_life_exp" FLOAT   NOT NULL
+    "healthy_life_exp" FLOAT
 );
 
 CREATE TABLE "sustainability" (
     "country_id" VARCHAR(3)   NOT NULL,
-    "renewable_energy" FLOAT   NOT NULL,
-    "access_electricity" FLOAT   NOT NULL,
-    "access_water" FLOAT   NOT NULL
+    "renewable_energy" FLOAT,
+    "access_electricity" FLOAT,
+    "access_water" FLOAT 
 );
 
 CREATE TABLE "economy" (
     "country_id" VARCHAR(3)   NOT NULL,
-    "gdp_per_capita" FLOAT   NOT NULL,
-    "ppp" FLOAT   NOT NULL,
-    "unemployment" FLOAT   NOT NULL,
-    "income_per_capita" FLOAT   NOT NULL
+    "gdp" FLOAT,
+    "ppp" FLOAT,
+    "unemployment" FLOAT,
+    "income_per_capita" FLOAT
 );
 
 --3.Check if tables were created
