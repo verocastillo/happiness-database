@@ -8,7 +8,7 @@ This ETL project create a database that permits researchers to analyze the socia
 
 **REPOSITORY NAVIGATION**
 
-* [ETL Procedures Manual] contains the entire ETL process documentation. 
+* [*ETL Procedures Manual*](https://docs.google.com/document/d/14odST4FqgMZgwl5vN_JRRSCoWpVosSxcjm4Gxnnl63w/edit) contains the entire ETL process documentation. 
 * [*Jupyter Notebooks Folder*](https://github.com/verocastillo/happiness-database/tree/main/jupyter) contains the files that transformed the data sets and exported them to Postgres using SQLAlchemy. 
 * [*Resources Folder*](https://github.com/verocastillo/happiness-database/tree/main/resources) contains data set files that were extracted (CSV files). 
 * [*SQL Folder*](https://github.com/verocastillo/happiness-database/tree/main/sql) contains the Postgres SQL code for creating the orginal database structure and tables. A database structure schema graphic is also available. 
